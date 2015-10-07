@@ -1,0 +1,17 @@
+{
+  "name": "base16-melon-theme",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A pleasant theme using the base16 builder.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "base16",
+    "melon"
+  ],
+  "repository": "https://github.com/tdheff/base16-melon-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
