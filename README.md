@@ -1,4 +1,4 @@
-# melon-syntax-theme theme
+# melon-theme theme
 
 A short description of your theme.
 
