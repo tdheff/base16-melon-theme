@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/base16-melon-theme",
+  "repository": "https://github.com/tdheff/base16-melon-theme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
